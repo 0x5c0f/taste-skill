@@ -1,6 +1,6 @@
 ---
 name: image-to-code
-description: Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then implement the website to match them as closely as possible. In Codex, it must prefer large, readable, section-specific images instead of tiny compressed boards, generate fresh standalone images for sections or detail views instead of cropping old ones, avoid lazy under-generation, avoid cards-inside-cards-inside-cards UI, and keep the hero clean, spacious, readable, and visible on a small laptop.
+description: 精英网站图片转代码技能。对于视觉重要的 Web 任务，必须先自行生成设计图片、深度分析，然后尽可能精确地实现网站以匹配图片。优先使用大尺寸、可读的分段图片而非压缩小图板，为各部分或详情视图生成全新独立图片而非裁剪旧图，避免懒惰的不完整生成，避免卡片嵌套卡片嵌套卡片的 UI，保持首屏干净、宽敞、可读且在小笔记本上可见。
 ---
 
 # CORE DIRECTIVE: IMAGE-FIRST WEBSITE DESIGN TO CODE
